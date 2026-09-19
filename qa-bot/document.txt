@@ -1,0 +1,19 @@
+Python
+
+Python is a high-level, interpreted programming language known for its simple and readable syntax. It was created by Guido van Rossum and first released in 1991. Python is widely used in web development, data science, artificial intelligence, automation, and software development.
+
+Artificial Intelligence
+
+Artificial Intelligence, commonly called AI, is a field of computer science focused on creating systems that can perform tasks that normally require human intelligence. These tasks include learning, reasoning, problem solving, understanding language, and recognizing images.
+
+Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence that allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task. Common types of machine learning include supervised learning, unsupervised learning, and reinforcement learning.
+
+OpenCV
+
+OpenCV is an open-source computer vision library mainly used for image and video processing. It provides tools for tasks such as face detection, object detection, image manipulation, and video analysis. OpenCV can be used with Python and other programming languages.
+
+GitHub
+
+GitHub is a platform used for hosting and collaborating on software projects. It uses Git for version control and allows developers to store repositories, track changes, manage issues, and collaborate with other developers.
